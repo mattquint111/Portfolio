@@ -23,7 +23,7 @@ const database = {
     brandImage: '/images/selfie.jpeg',
     aboutImage: '/images/climb.png',
     aboutImageLg: '/images/climb.png',
-    cvfile: '/files/Resume.pdf'
+    cvfile: '/images/Resume.pdf'
   },
   services: [
     {
@@ -105,7 +105,7 @@ const database = {
       largeImageUrl: [
         "/images/flix-lists-lrg.png"
       ],
-      url: 'flixlists.surge.sh'
+      url: 'https://flixlists.surge.sh'
     },
     
   ],
