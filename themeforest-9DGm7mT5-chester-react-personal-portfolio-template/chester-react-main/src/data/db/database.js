@@ -137,7 +137,14 @@ const database = {
         year: "May 2017 - Aug 2017",
         position: "Research Internship",
         company: "Ultra High Energy Cosmic Ray Telescope Array Project",
-        details: "Studied and modeled the effects of atmospheric conditions on cosmic ray particle scattering. Monitor and assist in data collection from telescope array experiment using standard experimental techniques. Performed device simulation, characterization, and data analysis methods."
+        details: "Studied and modeled the effects of atmospheric conditions on cosmic ray particle scattering. Monitored and assisted in data collection from telescope array experiment using standard experimental techniques. Performed device simulation, characterization, and data analysis methods."
+      },
+      {
+        id: 5,
+        year: "2007 - 2009",
+        position: "Infantry",
+        company: "United States Marine Corps",
+        details: "Received an honorable discharge (under medical conditions). MOS: 0311 - Infantry/Rifleman, Rank: E-3, Lance Corporal. Led fire team as squad leader during infantry battle drills and training exercises. Ability to react quickly and calmly under high stress situations."
       }
     ],
     educationExperience: [
@@ -153,7 +160,7 @@ const database = {
         year: "2015 - 2018",
         graduation: "Bachelor of Science in Physics",
         university: "University of Florida",
-        details: "Graduated Cum Laude with a GPA of 3.81"
+        details: "Graduated Cum Laude with a GPA of 3.81. Worked as a research assistant on the Acion Dark Matter Experiment (ADMX). Made the Dean's List (4 semesters) and was a Member of Tau Sigma Honor Society for Transfer Student and the Phi Kappa Phi Honor Society"
       },
       {
         id: 3,

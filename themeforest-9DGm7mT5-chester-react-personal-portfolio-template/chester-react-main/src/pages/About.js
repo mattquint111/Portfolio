@@ -7,6 +7,7 @@ import Sectiontitle from "../components/Sectiontitle";
 import Layout from "../components/Layout";
 import Service from "../components/Service";
 import Testimonial from "../components/Testimonial";
+import resume from '../Document/Resume.pdf'
 
 function About() {
   const [toggler, setToggler] = useState(false);
@@ -129,7 +130,7 @@ function About() {
                     </li>
                   )}
                 </ul>
-                <a href={information.cvfile} className="mi-button">
+                <a href="https://github.com/mattquint111/Resume/blob/main/Resume.pdf" target="_blank" className="mi-button">
                   Download Resume
                 </a>
               </div>
