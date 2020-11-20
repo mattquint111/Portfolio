@@ -2,6 +2,48 @@
  * Resume 
  */
 
+ .lang-icon-cont {
+   z-index: 3;
+   margin: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   flex-wrap: wrap;
+ }
+
+ .icon-row {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+ }
+
+.icon-cont {
+  & svg {
+    width: 7em;
+    z-index: 3;
+    margin-bottom: 5px;
+  }
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 30px;
+}
+
+
+.icon-img {
+  width: 7em;
+  z-index: 3;
+}
+
+.icon-title {
+  color: #ffffff;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
 .mi-resume {
   &-wrapper {
     border-left: 3px solid $color-border;

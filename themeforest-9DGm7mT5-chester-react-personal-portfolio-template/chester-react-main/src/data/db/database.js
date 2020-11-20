@@ -84,7 +84,7 @@ const database = {
     {
       id: 1,
       title: "CHALK-UP",
-      subtitle: "Rock climbing training app focused on indoor gym climbing.",
+      subtitle: "Rock climbing training app focused on indoor gym climbing with a responsive mobile design. Users can track their progress over climbing sessions and are able to quickly add individual route data. Using Google Maps API users can find rock climbing gyms around their area. Built using: NodeJS | ExpressJS | PostgreSQL | Sequelize ORM | server side pages using Mustache template engine.",
       imageUrl: "/images/chalkup.png",
       largeImageUrl: ["/images/chalk-up-lrg.png"],
       url: 'https://chalkupapp.herokuapp.com/'
@@ -92,7 +92,7 @@ const database = {
     {
       id: 2,
       title: "Super React Boy",
-      subtitle: "Video game emulator app with both single and multiple player games.",
+      subtitle: "Video game emulator app with both single and multiple player games. Built using: React | NodeJS.",
       imageUrl: "/images/super-react-boy.png",
       largeImageUrl: ["/images/super-react-boy-lrg.png"],
       url: 'https://chalkupapp.herokuapp.com/'
@@ -100,7 +100,7 @@ const database = {
     {
       id: 3,
       title: "Flix-Lists",
-      subtitle: "Movie playlist site to create and save movie lists.",
+      subtitle: "Movie playlist site to create and save movie lists. Utilizing the OMDb API users can select movies from pre rendered lists such as now playing, top rated, and upcoming as well as search by keyword or genre. Built using: JavaScript | HTML | CSS | Bootstrap | Firebase.",
       imageUrl: "/images/flix-lists.png",
       largeImageUrl: [
         "/images/flix-lists-lrg.png"
