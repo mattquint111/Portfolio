@@ -92,10 +92,10 @@ const database = {
     {
       id: 2,
       title: "Super React Boy",
-      subtitle: "Video game emulator app with both single and multiple player games. Built using: React | NodeJS.",
+      subtitle: "Video game emulator app with both single and multiple player games. Built using: React | NodeJS. | JavaScript | HTML | CSS",
       imageUrl: "/images/super-react-boy.png",
       largeImageUrl: ["/images/super-react-boy-lrg.png"],
-      url: 'https://chalkupapp.herokuapp.com/'
+      url: 'https://superreactboy.surge.sh/'
     },
     {
       id: 3,
