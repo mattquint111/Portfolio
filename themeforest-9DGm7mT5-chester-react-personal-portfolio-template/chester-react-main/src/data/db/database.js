@@ -150,7 +150,7 @@ const database = {
     educationExperience: [
       {
         id: 1,
-        year: "Sep 2020 - Jan 2020",
+        year: "Sep 2020 - Jan 2021",
         graduation: "Certificate in Software Engineering",
         university: "DigitalCrafts",
         details: "Software engineering training program covering full-stack development including, but not limited to JavaScript, Python, including an emphasis on cutting-edge frameworks like React/Redux and server-side technologies including Node.js, Express, and PostgreSQL."
