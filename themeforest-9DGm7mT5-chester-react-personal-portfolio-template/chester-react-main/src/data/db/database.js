@@ -107,6 +107,16 @@ const database = {
       ],
       url: 'https://flixlists.surge.sh'
     },
+    {
+      id: 4,
+      title: "Social Bubble",
+      subtitle: "Social Bubble is a social networking site that provides contract tracing for COVID-19, allowing users to build social groups, or bubbles. The users can then share their covid status or messages to their social bubbles, so everyone can know their friends and families are healthy, while protecting themselves at the same time. Built using: React | Redux | Axios | Node.js | Express | Sequelize | CSS",
+      imageUrl: "/images/social-bubble.png",
+      largeImageUrl: [
+        "/images/social-bubble.png"
+      ],
+      url: 'https://flixlists.surge.sh'
+    },
     
   ],
   experience: {
