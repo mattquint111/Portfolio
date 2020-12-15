@@ -34,7 +34,7 @@ const database = {
     {
       title: "Web Development",
       icon: 'code',
-      details: "I am proficient in HTML5, CSS3, Javascript, React, Redux, Node.js, MongoDB, SCSS, Jquery, SQL, AJAX, as well as Firebase, Git, and Github for open source projects."
+      details: "I am proficient in HTML5, CSS3, JavaScript, React, Redux, Node.js, MongoDB, SCSS, jQuery, SQL, AJAX, as well as Firebase, Git, and Github for open source projects."
     },
     {
       title: "Mobile Application",
@@ -92,9 +92,9 @@ const database = {
     {
       id: 2,
       title: "Super React Boy",
-      subtitle: "Video game emulator app with both single and multiple player games. Built using: React | NodeJS. | JavaScript | HTML | CSS",
+      subtitle: "Video game emulator app with both single and multiple player games. High scores are saved and displayed from a server side database. Utilizes a web API.  Built using: React | NodeJS. | Express | Sequelize | PostgreSQL | HTML | CSS",
       imageUrl: "/images/super-react-boy.png",
-      largeImageUrl: ["/images/super-react-boy-lrg.png"],
+      largeImageUrl: ["/images/snake-desktop.png"],
       url: 'https://superreactboy.surge.sh/'
     },
     {
@@ -123,7 +123,7 @@ const database = {
         year: "2016 - 2018",
         position: "Research Assistant",
         company: "Axion Dark Matter Experiment (ADMX) - University of Florida",
-        details: "Participated in the development of a software simulation framework for particle detection and analysis.Performed standard technical laboratory and field experimental procedures."
+        details: "Participated in the development of a software simulation framework for particle detection and analysis. Performed standard technical laboratory and field experimental procedures."
       },
       {
         id: 3,
